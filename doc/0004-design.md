@@ -326,8 +326,6 @@ flowchart LR
 
 authentication executable specification (analyses)
 
-![authentication behavior](image-8.png)
-
 Design
 
 - could be a web login
